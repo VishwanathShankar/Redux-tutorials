@@ -9,3 +9,5 @@ This will run the webpack dev server, it keeps on watching for changes in the ma
 Open another terminal in the same folder and 
 Run `node app.js`
 This will start an express web server and serve the dist/ folder, you can access the app using the link `http://localhost:3020/`
+
+# Final App:
